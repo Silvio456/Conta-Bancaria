@@ -1,0 +1,1 @@
+Criação de uma conta bancaria com o uso de POO. Nesse repositório irei aplicar os resultados progressivos do estudo da orientação a objetos. A cada atualização ele ficará mais completo e melhor desenvolvido.
